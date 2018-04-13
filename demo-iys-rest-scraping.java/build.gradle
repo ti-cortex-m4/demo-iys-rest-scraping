@@ -1,0 +1,45 @@
+buildscript {
+    repositories {
+        mavenCentral()
+    }
+}
+
+apply plugin: 'java'
+apply plugin: 'eclipse'
+apply plugin: 'idea'
+
+jar {
+    baseName = 'demo-iys-rest-scraping'
+    version =  '0.0.1'
+}
+
+repositories {
+    mavenCentral()
+}
+
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
+
+jar {
+    manifest {
+        attributes "Main-Class": "demo.Application"
+    }
+
+    from {
+        configurations.compile.collect { it.isDirectory() ? it : zipTree(it) }
+    }
+}
+
+dependencies {
+    compile('com.google.guava:guava:19.0')
+    compile('com.google.http-client:google-http-client:1.22.0')
+    compile('com.google.http-client:google-http-client-gson:1.22.0')
+    compile('com.google.code.gson:gson:2.7')
+
+    compile('org.slf4j:slf4j-api:1.7.22')
+    compile('ch.qos.logback:logback-classic:1.1.10')
+}
+
+task wrapper(type: Wrapper) {
+    gradleVersion = '2.7'
+}

@@ -1,0 +1,2610 @@
+Accounts & Finance
+    Accounting softwares
+        Ace[:]Avaya Certified Expert
+        Exactly Gold
+        Fact
+        Microsoft Dynamics
+        Money Ware
+        Oracle Financials
+        Pay Plus
+        QuickBooks
+        SAP
+        Sage
+        Tally
+    Certifications
+        5Star[:]Five Star REO Certified
+        AACI[:]Accredited Appraiser Canadian Institute
+        AAMC[:]Accredited Association Management Company
+        AAMS[:]Accredited Asset Management Specialist
+        AARE[:]Accredited Auctioneers, Real Estate
+        ABAR[:]Accredited in Business Appraisal Review
+        ABA[:]Accredited Business Accountant
+        ABRM[:]Accredited Buyer Representative Manager
+        ABR[:]Accredited Buyer Representative
+        ABV[:]Accredited in Business Valuation
+        ACP[:]Associate Computing Professional
+        AGA[:]Accredited Green Appraiser
+        AHS[:]Accredited Home-Staging Specialist
+        AHWD[:]At Home With Diversity
+        ALC[:]Accredited Land Consultant
+        ALHS[:]Accredited Luxury Home Specialist
+        AMLP[:]Anti-Money Laundering Professional
+        AMO[:]Accredited Management Organization
+        AMS[:]Association Management Specialist
+        ARM
+        ASA[:]Accredited Senior Appraiser
+        ASP[:]HP ASP - Secure Prescription Printing Solutions [2011]
+        ATA[:]Accredited Tax Advisor
+        ATP[:]Accredited Tax Preparer
+        AVA[:]Accredited Valuation Analyst
+        BPOR[:]Broker Price Opinion Resource
+        C-REC[:]Consumer-Certified Real Estate Consultant
+        CAA[:]Certified Acceptance Agent
+        CAIA[:]Chartered Alternative Investment Analyst
+        CAM[:]Certified Apartment Manager
+        CAPA[:]Certified Accounts Payable Associate
+        CAPM[:]Certified Associate Project Manager
+        CAPP[:]Certified Accounts Payable Professional
+        CA[:]chartered accountant
+        CBA[:]Certified Business Architect
+        CBF[:]Certified Benefits Professional
+        CBI[:]Certified Business Intermediary
+        CBR[:]Certified Buyer Representative
+        CB[:]Certified Bookkeeper
+        CCE[:]Certified Computer Examiner
+        CCIM[:]Certified Commercial Investment Member
+        CCSA[:]Check Point Certified Security Administrator
+        CDBV[:]Certification in Distressed Business Valuation
+        CDFA[:]Certified Divorce Financial Analyst
+        CDFM[:]Certified Defense Financial Manager
+        CDPE[:]Certified Distressed Property Expert
+        CEA[:]Certified E-Marketing Analyst
+        CEBA[:]Certified Exclusive Buyer Agent
+        CExP[:]Certified Exit Planner
+        CFA[:]chartered financial analyst
+        CFD[:]Certified Fraud Deterrence Analyst
+        CFE[:]certified fraud examiner
+        CFFA[:]Certified Forensic Financial Analyst
+        CFF[:]Certified in Financial Forensics
+        CFP[:]Certified Financial Planner
+        CFSA[:]Certified Financial Services Auditor
+        CFS[:]Certified Fund Specialist
+        CGAP[:]Certified Government Auditing Professional
+        CGA[:]certified general accountant
+        CGB[:]Certified Graduate Builder
+        CGFM[:]Certified Government Financial Manager
+        CGMA[:]Chartered Global Management Accountant
+        CGM[:]Certified General Mediator
+        CIAS[:]Certified Investor Agent Specialist
+        CIA[:]certified internal auditor
+        CIC[:]Chartered Investment Counselor
+        CIMA[:]Certified Investment Management Analyst
+        CIPM[:]Certificate in Investment Performance Measurement
+        CIPS[:]Certified International Property Specialist
+        CIRA[:]Certified Insolvency and Restructuring Advisor
+        CISA[:]Certified Information Systems Auditor
+        CITP[:]Certified Information Technology Professional
+        CLHMS[:]Certified Luxury Home Marketing Specialist
+        CLR
+        CLTC[:]Certified in Long-Term Care
+        CLU
+        CMAA[:]Certified Merger & Acquisition Advisor
+        CMAP[:]Chartered Merger & Acquisition Professional
+        CMA[:]Career Management Associate
+        CMC[:]Certified Management Consultant
+        CMFC[:]Chartered Mutual Fund Counselor
+        CNA[:]Certified Novell Administrator
+        CNE[:]Certified Novell Engineer - NetWare 6
+        CNHS[:]Certified New Home Specialist
+        CNS[:]Certified Novell Salesperson
+        CPA[:]certified public accountant
+        CPFO[:]Certified Public Finance Officer
+        CPM[:]Certified Product Manager
+        CPP[:]Certified Payroll Professional
+        CPS[:]Certified ShortSale Professional
+        CRA[:]Certified Risk Analyst
+        CRB[:]Certified Real Estate Brokerage Manager
+        CREA[:]Certified Real Estate Appraiser
+        CRES[:]Certified Real Estate Specialist
+        CRE[:]Counselors of Real Estate
+        CRFA[:]Certified Forensic Accountant
+        CRIA[:]Certified Realty Investment Associate
+        CRMA[:]Certification in Risk Management Assurance
+        CRPC[:]Chartered Retirement Planning Counselor
+        CRPS[:]Chartered Retirement Plans Specialist
+        CRP[:]Certified Risk Professional
+        CRS[:]Certified Reporting Specialist
+        CSEP[:]Certified Systems Engineering Professional
+        CSP[:]Certified Staging Professional
+        CTP[:]TIA Convergent Technologies Professional
+        CVA[:]certified valuation analyst
+        Certificate in Loan Review
+        ChFC[:]Chartered Financial Consultant
+        DREI[:]Distinguished Real Estate Instructor
+        EAC[:]Enrolled Actuary
+        EA[:]Enrolled Agent
+        ECO[:]Domain Driven Design
+        ECS[:]Elder Care Specialist
+        EPRO[:]e-PRO
+        ERPA[:]Enrolled Retirement Plan Agent
+        FCI[:]Fellow Credit Institute
+        FPC[:]Fundamental Payroll Certification
+        FRICS[:]Fellow Royal Institute Chartered Surveyors
+        FRI[:]Fellow of the Real Estate Institute
+        FRM[:]certified Financial Risk Management
+        GAA[:]General Accredited Appraiser
+        GCREP[:]Green Certified Real Estate Professional
+        GMS[:]Global Mobility Specialist
+        GPA[:]The Green Property Advisor
+        GREEN[:]NAR's Green Designation
+        GRI[:]Graduate, Realtor Institute
+        IRES[:]International Real State Specialist
+        LEDAP[:]LEED Accredited Professional
+        LEED[:]Leadership in Energy and Environmental Design
+        MAFF[:]Master Analyst in Financial Forensics
+        MAI[:]Member Appraisal Institute
+        MRP[:]Alcatel-Lucent Mobile Routing Professional
+        MVA[:]Market Value Appraiser
+        OICP[:]OwnAmerica Investment Certified Professional
+        PCP[:]Payroll Compliance Practitioner
+        PFS
+        PMN[:]Performance Management Network
+        QSC[:]Quality Service Certified
+        RAA[:]Residential Accredited Appraiser
+        RCC[:]Residential Construction Certified
+        RCE[:]Realtor Association Certified Executive
+        REDS[:]Real Estate Divorce Specialist
+        REPA[:]Real Estate Professional Assistant
+        REW[:]Real Estate Webographer
+        RFA[:]Registered Financial Associate
+        RFC[:]Registered Financial Consultant
+        RFS
+        RI[:]Real Estate Institute
+        RM[:]Residential Member
+        RRS[:]Recreation & Resort Specialist
+        RSPS[:]Resort & Second-Home Property Specialist
+        SFR[:]Short Sales & Foreclosure Resource
+        SIOR[:]Society of Industrial and Office Realtors
+        SPS[:]Strategic Pricing Specialist
+        SRA[:]Alcatel-Lucent Service Routing Architect
+        SREA[:]Senior Real Estate Appraiser
+        SRES[:]Seniors Real Estate Specialists
+        SRS[:]Seller Representative Specialist
+        SRTP[:]Supervised Registered Tax Preparer
+        Series 10 - General Securities Sales Supervisor Examination
+        Series 11 - Assistant Representative - Order Processing Examination (AR)
+        Series 14 - Compliance Official Examination (CO)
+        Series 16 - Supervisory Analysts Examination (SA)
+        Series 17 - United Kingdom Securities Representative (IE)
+        Series 22 - Direct Participation Programs Limited Representative Examination (DR)
+        Series 23 - General Securities Principal Exam - Sales Supervisor Module (GP)
+        Series 24 - General Securities Principal Examination (GP)
+        Series 26 - Investment Company and Variable Contracts Products Principal Examination (IP)
+        Series 27 - Financial and Operations Principal Exam (FN)
+        Series 28 - Introducing Broker-Dealer Financial and Operations Principal Examination (FI)
+        Series 3 - National Commodities Futures Examination
+        Series 30 - NFA Branch Manager Examination (formerly, Branch Managers Examination Futures)
+        Series 31 - Futures Managed Funds Examination
+        Series 32 - Limited Futures Examination - Regulations
+        Series 34 - Retail Off-Exchange Forex Examination
+        Series 37 - Canada Securities Representative Examination (CD)
+        Series 38 - Canada Securities Representative Examination (CN)
+        Series 39 - Direct Participation Programs Principal Examination (DP)
+        Series 4 - Registered Options Principal Examination (OP)
+        Series 42 - Registered Options Representative Examination (OR)
+        Series 50 - Municipal Advisor Representative Examination
+        Series 51 - Municipal Fund Securities Limited Principal Examination
+        Series 52 - Municipal Securities Representative Examination (MR)
+        Series 53 - Municipal Securities Principal Examination (MP)
+        Series 55 - Equity Trader Examination (ET)
+        Series 56 - Proprietary Trader Examination (PT)
+        Series 57 - Securities Trader Examination (TD)
+        Series 6 - Investment Company and Variable Contracts Products Representative Examination (IR)
+        Series 62 - Corporate Securities Representative Examination (CS)
+        Series 63 - Uniform Securities Agent State Law Examination
+        Series 65 - Uniform Investment Adviser Law Examination
+        Series 66 - Uniform Combined State Law Examination
+        Series 7 - General Securities Representative Examination (GS)
+        Series 72 - Government Securities Representative Examination (RG)
+        Series 79 - Investment Banking Representative Examination (IB)
+        Series 82 - Private Securities Offerings Representative Examination (PR)
+        Series 86 - Research Analyst Examination (RS)
+        Series 87 - Research Analyst Examination (RS)
+        Series 9 - General Securities Sales Supervisor Examination
+        Series 91 - FDIC Safety and Soundness Technical Evaluation
+        Series 92 - FDIC Compliance Technical Evaluation
+        Series 93 - FDIC Division of Resolutions and Receiverships Technical Evaluation
+        Series 99 - Operations Professional Examination (OS)
+        TRC[:]Transnational Referral Certified
+    Concepts, Understanding of
+        Accounting standards
+        Basic Accounting Principles
+        Capital Budgeting
+        Cost Accounting Knowledge
+        Financial Budgeting
+        Financial Statements
+        Knowledge of International Finance
+        Taxation Knowledge
+    Focus Area / Activities
+        Accounting Operations
+        Accounts Payables
+        Accounts Receivables
+        Audit
+        Audit[:]Auditing:Auditor
+        Cost Accounting
+        Financial Control
+        Financial Planning and Analysis
+        Taxation
+        Treasury Management
+        Treasury Management[:]TR - TM
+    Functional Skills
+        Analytical Thinking
+        Being Current on Latest Functional Developments
+        Crunching Data
+        Customer Service Orientation
+        Eye for detail
+        Financial Judgement
+        Transaction Processing
+        Understanding Business Processes
+        Using Information Technology / Software Tools
+        Using Spreadsheets / Excel
+    Operational Experience
+        Industry
+        Nature of Organization
+        Responsibility Level
+Agriculture, Animal Husbandry
+    Agriculture Research
+        Activities in Agriculture Research
+    Animal Husbandry
+        Activities in Animal Husbandry
+        Focus Area in Animal Husbandry
+    Farming
+        Activities in Farming
+        Farming / Cultivation of
+    Farming[:]Cultivation
+    Fishing
+        Focus Area in Fishing
+    Horticulture
+        Focus Area in Horticulture
+Arts, Crafts
+    Acting
+        Acting In
+    Craftwork
+        Talent Expression Model
+        Type of Art, Craftwork
+    Culinary Skills (Cooking)
+        Talent Expression Model
+        Type of Cuisine
+    Culinary Skills[:]Cooking
+    Dancing
+        Dance Genre
+        Talent Expression Model
+    Functional Skills
+        Aesthetics
+        Converting Ideas to Creative Work
+        Creativity
+        Eye for detail
+        Understanding of Trends
+    Graphic / 2D / 3D Design
+        2D / 3D Animation Tools
+        2D / 3D Designing Activities
+        Design Tools
+        Designing of
+    Photography
+        Photography Area
+        Talent Expression Model
+    Playing Musical Instrument / Composing
+        Genre of Music
+        Music Software
+        Musical Instrument
+        Talent Expression Model
+    Singing
+        Genre of Music
+        Languages
+        Talent Expression Model
+        Vocal Range / Voice
+    Vocal Range / Voice
+        Alto
+        Baritone
+        Bass
+        Choral Singing
+        Mezzo-Soprano
+        Solo Singing
+        Soprano
+        Tenor
+Banking, Financial Services, Insurance
+    Account & Finance certification
+        5Star[:]Five Star REO Certified
+        AACI[:]Accredited Appraiser Canadian Institute
+        AAMC[:]Accredited Association Management Company
+        AAMS[:]Accredited Asset Management Specialist
+        AARE[:]Accredited Auctioneers, Real Estate
+        ABAR[:]Accredited in Business Appraisal Review
+        ABA[:]Accredited Business Accountant
+        ABRM[:]Accredited Buyer Representative Manager
+        ABR[:]Accredited Buyer Representative
+        ABV[:]Accredited in Business Valuation
+        ACP[:]Associate Computing Professional
+        AGA[:]Accredited Green Appraiser
+        AHS[:]Accredited Home-Staging Specialist
+        AHWD[:]At Home With Diversity
+        ALC[:]Accredited Land Consultant
+        ALHS[:]Accredited Luxury Home Specialist
+        AMLP[:]Anti-Money Laundering Professional
+        AMO[:]Accredited Management Organization
+        AMS[:]Association Management Specialist
+        ARM
+        ASA[:]Accredited Senior Appraiser
+        ASP[:]HP ASP - Secure Prescription Printing Solutions [2011]
+        ATA[:]Accredited Tax Advisor
+        ATP[:]Accredited Tax Preparer
+        AVA[:]Accredited Valuation Analyst
+        BPOR[:]Broker Price Opinion Resource
+        C-REC[:]Consumer-Certified Real Estate Consultant
+        CAA[:]Certified Acceptance Agent
+        CAIA[:]Chartered Alternative Investment Analyst
+        CAM[:]Certified Apartment Manager
+        CAPA[:]Certified Accounts Payable Associate
+        CAPM[:]Certified Associate Project Manager
+        CAPP[:]Certified Accounts Payable Professional
+        CA[:]chartered accountant
+        CBA[:]Certified Business Architect
+        CBF[:]Certified Benefits Professional
+        CBI[:]Certified Business Intermediary
+        CBR[:]Certified Buyer Representative
+        CB[:]Certified Bookkeeper
+        CCE[:]Certified Computer Examiner
+        CCIM[:]Certified Commercial Investment Member
+        CCSA[:]Check Point Certified Security Administrator
+        CDBV[:]Certification in Distressed Business Valuation
+        CDFA[:]Certified Divorce Financial Analyst
+        CDFM[:]Certified Defense Financial Manager
+        CDPE[:]Certified Distressed Property Expert
+        CEA[:]Certified E-Marketing Analyst
+        CEBA[:]Certified Exclusive Buyer Agent
+        CExP[:]Certified Exit Planner
+        CFA[:]chartered financial analyst
+        CFD[:]Certified Fraud Deterrence Analyst
+        CFE[:]certified fraud examiner
+        CFFA[:]Certified Forensic Financial Analyst
+        CFF[:]Certified in Financial Forensics
+        CFP[:]Certified Financial Planner
+        CFSA[:]Certified Financial Services Auditor
+        CFS[:]Certified Fund Specialist
+        CGAP[:]Certified Government Auditing Professional
+        CGA[:]certified general accountant
+        CGB[:]Certified Graduate Builder
+        CGFM[:]Certified Government Financial Manager
+        CGMA[:]Chartered Global Management Accountant
+        CGM[:]Certified General Mediator
+        CIAS[:]Certified Investor Agent Specialist
+        CIA[:]certified internal auditor
+        CIC[:]Chartered Investment Counselor
+        CIMA[:]Certified Investment Management Analyst
+        CIPM[:]Certificate in Investment Performance Measurement
+        CIPS[:]Certified International Property Specialist
+        CIRA[:]Certified Insolvency and Restructuring Advisor
+        CISA[:]Certified Information Systems Auditor
+        CITP[:]Certified Information Technology Professional
+        CLHMS[:]Certified Luxury Home Marketing Specialist
+        CLR
+        CLTC[:]Certified in Long-Term Care
+        CLU
+        CMAA[:]Certified Merger & Acquisition Advisor
+        CMAP[:]Chartered Merger & Acquisition Professional
+        CMA[:]Career Management Associate
+        CMC[:]Certified Management Consultant
+        CMFC[:]Chartered Mutual Fund Counselor
+        CNA[:]Certified Novell Administrator
+        CNE[:]Certified Novell Engineer - NetWare 6
+        CNHS[:]Certified New Home Specialist
+        CNS[:]Certified Novell Salesperson
+        CPA[:]certified public accountant
+        CPFO[:]Certified Public Finance Officer
+        CPM[:]Certified Product Manager
+        CPP[:]Certified Payroll Professional
+        CPS[:]Certified ShortSale Professional
+        CRA[:]Certified Risk Analyst
+        CRB[:]Certified Real Estate Brokerage Manager
+        CREA[:]Certified Real Estate Appraiser
+        CRES[:]Certified Real Estate Specialist
+        CRE[:]Counselors of Real Estate
+        CRFA[:]Certified Forensic Accountant
+        CRIA[:]Certified Realty Investment Associate
+        CRMA[:]Certification in Risk Management Assurance
+        CRPC[:]Chartered Retirement Planning Counselor
+        CRPS[:]Chartered Retirement Plans Specialist
+        CRP[:]Certified Risk Professional
+        CRS[:]Certified Reporting Specialist
+        CSEP[:]Certified Systems Engineering Professional
+        CSP[:]Certified Staging Professional
+        CTP[:]TIA Convergent Technologies Professional
+        CVA[:]certified valuation analyst
+        Certificate in Loan Review
+        ChFC[:]Chartered Financial Consultant
+        DREI[:]Distinguished Real Estate Instructor
+        EAC[:]Enrolled Actuary
+        EA[:]Enrolled Agent
+        ECO[:]Domain Driven Design
+        ECS[:]Elder Care Specialist
+        EPRO[:]e-PRO
+        ERPA[:]Enrolled Retirement Plan Agent
+        FCI[:]Fellow Credit Institute
+        FPC[:]Fundamental Payroll Certification
+        FRICS[:]Fellow Royal Institute Chartered Surveyors
+        FRI[:]Fellow of the Real Estate Institute
+        FRM[:]certified Financial Risk Management
+        GAA[:]General Accredited Appraiser
+        GCREP[:]Green Certified Real Estate Professional
+        GMS[:]Global Mobility Specialist
+        GPA[:]The Green Property Advisor
+        GREEN[:]NAR's Green Designation
+        GRI[:]Graduate, Realtor Institute
+        IRES[:]International Real State Specialist
+        LEDAP[:]LEED Accredited Professional
+        LEED[:]Leadership in Energy and Environmental Design
+        MAFF[:]Master Analyst in Financial Forensics
+        MAI[:]Member Appraisal Institute
+        MRP[:]Alcatel-Lucent Mobile Routing Professional
+        MVA[:]Market Value Appraiser
+        OICP[:]OwnAmerica Investment Certified Professional
+        PCP[:]Payroll Compliance Practitioner
+        PFS
+        PMN[:]Performance Management Network
+        QSC[:]Quality Service Certified
+        RAA[:]Residential Accredited Appraiser
+        RCC[:]Residential Construction Certified
+        RCE[:]Realtor Association Certified Executive
+        REDS[:]Real Estate Divorce Specialist
+        REPA[:]Real Estate Professional Assistant
+        REW[:]Real Estate Webographer
+        RFA[:]Registered Financial Associate
+        RFC[:]Registered Financial Consultant
+        RFS
+        RI[:]Real Estate Institute
+        RM[:]Residential Member
+        RRS[:]Recreation & Resort Specialist
+        RSPS[:]Resort & Second-Home Property Specialist
+        SFR[:]Short Sales & Foreclosure Resource
+        SIOR[:]Society of Industrial and Office Realtors
+        SPS[:]Strategic Pricing Specialist
+        SRA[:]Alcatel-Lucent Service Routing Architect
+        SREA[:]Senior Real Estate Appraiser
+        SRES[:]Seniors Real Estate Specialists
+        SRS[:]Seller Representative Specialist
+        SRTP[:]Supervised Registered Tax Preparer
+        Series 10 - General Securities Sales Supervisor Examination
+        Series 11 - Assistant Representative - Order Processing Examination (AR)
+        Series 14 - Compliance Official Examination (CO)
+        Series 16 - Supervisory Analysts Examination (SA)
+        Series 17 - United Kingdom Securities Representative (IE)
+        Series 22 - Direct Participation Programs Limited Representative Examination (DR)
+        Series 23 - General Securities Principal Exam - Sales Supervisor Module (GP)
+        Series 24 - General Securities Principal Examination (GP)
+        Series 26 - Investment Company and Variable Contracts Products Principal Examination (IP)
+        Series 27 - Financial and Operations Principal Exam (FN)
+        Series 28 - Introducing Broker-Dealer Financial and Operations Principal Examination (FI)
+        Series 3 - National Commodities Futures Examination
+        Series 30 - NFA Branch Manager Examination (formerly, Branch Managers Examination Futures)
+        Series 31 - Futures Managed Funds Examination
+        Series 32 - Limited Futures Examination - Regulations
+        Series 34 - Retail Off-Exchange Forex Examination
+        Series 37 - Canada Securities Representative Examination (CD)
+        Series 38 - Canada Securities Representative Examination (CN)
+        Series 39 - Direct Participation Programs Principal Examination (DP)
+        Series 4 - Registered Options Principal Examination (OP)
+        Series 42 - Registered Options Representative Examination (OR)
+        Series 50 - Municipal Advisor Representative Examination
+        Series 51 - Municipal Fund Securities Limited Principal Examination
+        Series 52 - Municipal Securities Representative Examination (MR)
+        Series 53 - Municipal Securities Principal Examination (MP)
+        Series 55 - Equity Trader Examination (ET)
+        Series 56 - Proprietary Trader Examination (PT)
+        Series 57 - Securities Trader Examination (TD)
+        Series 6 - Investment Company and Variable Contracts Products Representative Examination (IR)
+        Series 62 - Corporate Securities Representative Examination (CS)
+        Series 63 - Uniform Securities Agent State Law Examination
+        Series 65 - Uniform Investment Adviser Law Examination
+        Series 66 - Uniform Combined State Law Examination
+        Series 7 - General Securities Representative Examination (GS)
+        Series 72 - Government Securities Representative Examination (RG)
+        Series 79 - Investment Banking Representative Examination (IB)
+        Series 82 - Private Securities Offerings Representative Examination (PR)
+        Series 86 - Research Analyst Examination (RS)
+        Series 87 - Research Analyst Examination (RS)
+        Series 9 - General Securities Sales Supervisor Examination
+        Series 91 - FDIC Safety and Soundness Technical Evaluation
+        Series 92 - FDIC Compliance Technical Evaluation
+        Series 93 - FDIC Division of Resolutions and Receiverships Technical Evaluation
+        Series 99 - Operations Professional Examination (OS)
+        TRC[:]Transnational Referral Certified
+    Banking
+        Account & Finance certification
+        Banking Operations
+        Functional Skills
+        Knowledge of Accounts and Finance
+        Tools & Technology
+        Understanding of Banking Products / Services
+        Understanding of Banking Regulations
+    ERROR-SKILL-5269
+        Activities in Investment Banking Backend
+        Corporate Actions / Advisory Front End Activities
+        Corporate Actions, Experiene with
+        Functional Skills
+        Investment Banking Clearing
+        Investment Banking Fund Accounting
+        Investment Banking Product Control
+    ERROR-SKILL-5271
+        Asset Management Activities
+        Functional Skills
+        Tools & Technology
+        Trading Instruments, Understanding of
+        Trading, Broking Activities
+        Understanding of Securities Related Regulations, Processes
+    Financial Advisory
+        Financial Advisory, Area of
+        Financial Advisory, For / Targeted at
+        Functional Skills
+    Insurance
+        Activities
+        Functional Skills
+        Type of Insurance
+        Understanding of Insurance Regulations, Processes
+    Investment Banking
+        Activities in Investment Banking Backend
+        Corporate Actions / Advisory Front End Activities
+        Investment Banking Clearing
+        Investment Banking Fund Accounting
+        Investment Banking Product Control
+        Type of Corporate Actions
+    Knowledge of Accounts and Finance
+        Accounting standards
+        Basic Accounting Principles
+        Financial Statements
+        Financial analysis concepts
+    Trading, Broking, Fund Management
+        Activities
+        Asset Management
+        Tools & Technology
+        Trading in
+        Understanding of Securities Related Regulations, Processes
+Behavioral Skills
+    Assertiveness
+    Decision Making
+    Emotional Balance
+    Influencing
+    Interpersonal Skills
+    Leading People
+    Personal Discipline
+    Risk Taking
+    Taking Responsibility
+    Time Management
+Business Management
+    Functional Skills
+        Analytical Thinking
+        Conceptualizing / Connecting dots to see larger picture
+        Cross Domain Knowledge
+        Crunching Data
+        Financial Judgement
+        Influencing
+        Judgement of People
+        Managing People Dynamics
+        Negotiation Skills
+        Productizing
+        Spotting Business Opportunities
+        Understanding Business Processes
+    Geography
+        Country
+    Industry
+        Agriculture, Food
+        Airports
+        Business Services
+        Charitable Organizations
+        Communications
+        Construction
+        Consumer Services
+        Education
+        Energy
+        Finance
+        Government
+        Health
+        Information Technology
+        Manufacturing
+        Media
+        Media Planning
+        Shipping
+    Management Expertise
+        Business Expansion
+        Corporate Governance
+        Finance
+        Project Management, Operations
+        Sales and Marketing
+        Supply Chain, Materials Science
+    Type of Engagement
+        Consultant
+        Full time in-company employment
+        Part time Engagement
+    Type of Organization
+        Partnership Firm
+        Private Limited
+        Public Limited
+        Sole Propreiarship
+        Startup
+    Understanding of
+        Business Model
+        Business Model, Understanding of
+Education
+    Administration In Education
+        Finding Sponsors
+        Industry Collaboration
+        Monitoring Conformance to Govt Norms
+        Monitoring Teacher Performance
+        Placement of Students
+        Student Admission
+    Library Administration
+        Archiving Old Items
+        Cataloging Library Items
+        Classifying Library Items
+        Collecting Fees
+        Issuing and Collecting Library Items
+        Maintaining Library Items in Good Condition
+        Purchasing Library Items
+    Pedagogy and Teaching Methodologies
+        Adult Education
+        Adventure Education
+        Augmentative And Alternative Communication
+        BLISS Symbolic Language
+        Behavioral Pedagogy
+        Conductive Pedagogy
+        E-Learning
+        Freinet Pedagogy
+        Health Education
+        Kindergarten Pedagogy
+        Lifelong Learning
+        Montessori Pedagogy
+        Pedagogy of Higher Education
+        Play Pedagogy
+        Preschool Pedagogy
+        Reggio Emilia Pedagogy
+        Self Directed Learning
+    School Level
+        Adult Education
+        Lower Secondary
+        Middle School
+        Post Secondary
+        Preschool
+        Primary School
+        Secondary
+        University
+        Upper Secondary
+    Special Education
+        Education For The Blind
+        Education For The Deaf
+        Education For The Hard Of Hearing
+        Education For The Mentally Handicapped
+        Education For The Multiply Handicapped
+        Education For The Physically Handicapped
+        Education For The Visually Impaired
+        Education For Those With Behavioral Difficulties
+        Education For Those With Learning Disabilities
+        Education For Those With Speech And Language Impairments
+        Integrated Education Of The Handicapped
+        Special Education For Those With ADHD
+        Special Education For Those With Autism
+        Special Education For Those With Social Problems
+    Teaching
+        Anthropology
+        Functional Skills
+        Teaching of  Earth Sciences
+        Teaching of Chemistry
+        Teaching of Economics
+        Teaching of Engineering
+        Teaching of Humanities
+        Teaching of Languages
+        Teaching of Life Sciences
+        Teaching of Mathematics
+        Teaching of Physics
+        Teaching of Psychology
+        Teaching of Social Sciences
+        Teaching of Statistics
+Engineering & Technology
+    Aeronautics Engineering
+        Activities in Engineering Design
+        Aeronautics Systems
+        Design, Engineering Tools
+        Functional Skills
+        Principles and Concepts
+        Software, Computational Tools
+        Type of Automotive / Aeronautic Testing
+    Automotive Engineering
+        Activities in Engineering Design
+        Automotive Systems
+        Design, Engineering Tools
+        Functional Skills
+        Principles and Concepts
+        Software, Computational Tools
+        Type of Automotive / Aeronautic Testing
+    Biochemical Engineering
+        Bioprocessing Knowledge
+        Focus Area in Biochemical Engineering
+        Functional Skills
+    Biomedical Engineering
+        Biomaterials Applications
+        Design, Engineering Tools
+        Principles and Concepts
+    Civil Engineering
+        Activities in Engineering
+        Coastal Engineering
+        Design, Engineering Tools
+        Earthquake Engineering
+        Functional Skills
+        GIS, Remote Sensing
+        General Civil Engineering
+        Knowledge of Civil Engineering Standard / Codes
+        Principles and Concepts
+        Structural Engineering
+        Surveying
+        Transportation Engineering
+        Water Resources Engineering
+    ERROR-SKILL-2570
+        Biomaterials Applications
+        Design, Engineering Tools
+        Functional Skills
+        Principles and Concepts
+    ERROR-SKILL-4940
+        Circuit Design
+        Design, Engineering Tools
+        Electrical and Electronics Systems
+        Embedded Systems
+        Focus Area in Power Electronics
+        Functional Skills
+        Optoelectronics
+        Principles and Concepts
+        Technologies
+    Electrical Engineering
+        Activities
+        Design, Engineering Tools
+        Designing of / For
+        Focus Area in Power Transmission Capacity
+        Functional Skills
+        Principles and Concepts
+    Electronics Engineering
+        Circuit Design
+        Design, Engineering Tools
+        Electrical and Electronics Systems
+        Embedded Systems
+        Focus Area in Power Electronics
+        Optoelectronics
+        Principles and Concepts
+        Technologies
+    Fiber Technology
+        Activities in Fiber Technology
+        Functional Skills
+    Food Technology
+        Activities in Food Science, Technology
+        Food Processing Techniques
+        Food Production of
+        Functional Skills
+        Studying and Improving Foods
+    Instrumentation, Process Automation
+        Activities in Instrumentation
+        Instrumentation Codes and Standards
+        Understanding of
+    Materials Sciences
+        Focus Area / Activities
+        Functional Skills
+    Mechanical Engineering
+        Activities in Engineering Design
+        Design, Engineering Tools
+        Engineering of Rotary Equipments
+        Engineering of Static Equipments
+        General Mechanical Engineering
+        HVAC
+        Machineries Design and Engineering
+        Piping Engineering
+        Principles and Concepts
+        Software, Computational Tools
+        Tools, Jigs and Fixtures
+    Process Engineering
+        Design, Engineering Tools
+        Principles and Concepts
+        Process Engineering Activities
+    Robotics
+        Functional Skills
+        Robotics Concepts
+        Tools, Equipments, Technologies
+    Telecom, Communications
+        Functional Skills
+        Principles and Concepts
+        Telecom Certifications
+        Telecom Frameworks and Standards
+        Telecom NOC Operations
+        Telecom Network Implementation - Fiber Optics
+        Telecom Network Planning
+        Telecom RF Engineering
+        Telecom Technology
+        Tools, Equipments, Technologies
+Environment, Heath, Safety
+    Enviromental Safety
+        Air Pollution
+        Enviroment Monitoring
+        Pollution Control
+        Waste Management
+        Water Pollution
+    Fire Safety
+        Classes of Fires, Understanding of
+        Fire Suppression Systems, Understanding of
+        Types of Fire Extinguishers, Understanding of
+    Industrial Safety
+        Chemical Plant Safety
+        Construction Safety
+        Nuclear Safety
+        Safety in Manufacturing Industries
+        Safety in Mines
+    Occupational Safety
+        Biological Hazards
+        Chemical Hazards
+        Ergonomics Hazards
+        Physical Hawards
+        Toxicology
+    Safety Activities
+        Accident Investigation
+        Advocating Safety Measures
+        Safety Audits, Performing of
+        Safety Education[:]Providing Safety Training
+        Safety Monitoring
+    Safety Engineering
+        Hazard Analysis
+        Risk Analysis
+        Safety Modeling
+    Transport Safety
+        Road Safety
+        Transportation of Hazardous Goods
+Food Business
+    Bar
+        Bartender
+        Somelier
+    Food Preparation
+        Activities
+        Type of Cuisine
+    Food Service
+    Management
+        Facilities Management
+        Inventory Management
+        Manpower Management
+        Purchasing
+    Scale of Food Business
+        Big Restaurants
+        Coffee Shops
+        Deli
+        Small Eateries
+        Small Restaurants
+        Star Hotels
+    Support
+        Billing
+        Cleaning
+        Dishwashing
+        Outdoor Food Delivery
+        Taking Orders
+    Support[:]Support Engineer:Application Support:Technical Support:Support Anlayst
+General Administration
+    Activities in Facilities Management
+        Engaging Vendors
+        Inventory Management
+        Maintaining Electrical Utilities
+        Maintaining HVAC utilities
+        Maintaining Plumbing Facilities
+        Monitoring Safety of Facilities
+        Monitoring Security of Facilities
+        Up Keep of Physical Infrastructure
+        Waste Management
+    Activities of Secretary
+        Appointment Bookings
+        Calendar Management
+        Calendaring
+        Correspondence
+        Creating Presentation
+        Document Drafting
+        Meeting Coordination
+        Phone Call Attendance
+        Recording Minutes
+        Report Generation
+        Telephoning
+        Travel Planning
+        Writing Emails
+    Facilities Management
+    Functional Skills
+        Coordinating
+        Customer Service Orientation
+        Guiding People
+        Mobilizing Resources
+        Problem Solving
+        Transaction Processing
+        Troubleshooting
+        Using Information Technology / Software Tools
+    Office Administration
+    Office Administration Activities
+        Asset Management, Maintenance
+        Billing and Collection
+        Dispatch and Receipts
+        Employee Engagement
+        Event Coordination
+        Information Management
+        Information Processing
+        Inventory Management
+        Liaison
+        Office Maintenance
+        Procurement
+        Secretarial Activities
+    Other Admin Activities
+        Liaisoning Activities
+    Secretarial Activities
+HR
+    Compensation & Benefits
+        Comp & Ben Activities
+        Compensation and Benefits Knowledge
+        Functional Skills
+        Types of Compensation & Benefits Components
+    ERROR-SKILL-5290
+        Functional Skills
+        HR Operations / Administration Activities
+    ERROR-SKILL-5294
+        Functional Skills
+        Recruitment Activities
+        Recruitment Sources
+        Recruitment Target Segments
+    Employee Engagement
+        Activities in Employee Engagement
+        Functional Skills
+        Performance Management
+    HR Certifications
+        Bookkeepers Certification
+        Business and Employer Services - Professional Certification
+        CARW[:]Certified Advanced Resume Writer
+        CBF[:]Certified Benefits Professional
+        CBT[:]Certified Bank Teller
+        CCP[:]Certified Compensation Professional
+        CCSR[:]Certified Customer Service Representative
+        CCTS[:]Certified Corporate Trust Specialist
+        CEAP[:]Certified Employee Assistance Professional
+        CEBS[:]Certified Employee Benefit Specialist
+        CECP[:]Certified Executive Compensation Professional
+        CEIC[:]Certified Employment Interview Consultant
+        CEIP[:]Certified Employment Interview Professional
+        CERS[:]Certified Employee Retention Specialist
+        CFMP[:]Certified Financial Marketing Professional
+        CFPIM[:]Certified Fellow in Production and Inventory Management
+        CFSSP[:]Certified Financial Services Security Professional
+        CIRM[:]Certified in Integrated Resource Management
+        CISP[:]Certified IRA Services Professional
+        CLBB[:]Certified Lender Business Banker
+        CMA[:]Career Management Associate
+        CMF[:]Career Management Fellow
+        CMP[:]Career Management Professional
+        CMRW[:]Certified Master Resume Writer
+        CMS[:]Compensation Management Specialist
+        CPB[:]Certified Personal Banker
+        CPC[:]Certified Personnel Consultant
+        CPIM[:]Certified in Production and Inventory Management
+        CPRW[:]Certified Professional Resume Writer
+        CPR[:]Cardiopulmonary Resuscitation
+        CP[:]Certified Professional in Online Job Search and Reputation Management
+        CRCM[:]Certified Regulatory Compliance Manager
+        CRS+AC[:]Certified Resume Specialist: Administration and Clerical
+        CRS+AF[:]Certified Resume Specialist: Accounting and Finance
+        CRS+BD[:]Certified Resume Specialist:Sales and Business Development
+        CRS+ES[:]Certified Resume Specialist: Emergency Services
+        CRS+E[:]Certified Resume Specialist: Education
+        CRS+FS[:]Certified Resume Specialist: Financial Services
+        CRS+HM[:]Certified Resume Specialist: Healthcare and Medical
+        CRS+HR[:]Certified Resume Specialist:Training and Human Resources
+        CRS+HT[:]Certified Resume Specialist: Hospitality and Tourism
+        CRS+IT[:]Certified Resume Specialist: Information Technology
+        CRS+LL[:]Certified Resume Specialist: Legal/Law
+        CRS+NP[:]Certified Resume Specialist: Non-Profit
+        CRS+PL[:]Certified Resume Specialist: Politics and Legislation
+        CRS+PR[:]Certified Resume Specialist:Public Relations and Marketing Communications
+        CRS+TC[:]Certified Resume Specialist:Trades and Construction
+        CRSP[:]Certified Retirement Services Professional
+        CSCP
+        CSOP[:]Certified Securities Operations Professional
+        CTFA[:]Certified Trust and Financial Advisor
+        CTS[:]Certified Temporary-Staffing Specialist
+        CWPP[:]Certified Web Portfolio Practitioner
+        CWS[:]Certified Workforce Specialist
+        Core Skills Professional Certification
+        Fiscal Services - Accelerated Package
+        GBA[:]Group Benefits Associate
+        GMS[:]Global Mobility Specialist
+        GPHR[:]Global Professional in Human Resources
+        Global Remuneration Professional
+        HRBP[:]Human Resources Business Professional
+        HRIP[:]Human Resource Information Professional
+        HRMP[:]Human Resources Management Professional
+        IPMA-CP[:]Certified Professional - Human Resource
+        IPMA-CS[:]Certified Specialist - Human Resources
+        Job Seeker Services - Professional Certification
+        MCD[:]Master Career Director
+        MFCC/T[:]Master Federal Career Coach/Trainer
+        MFCC[:]Master Federal Career Coach
+        MMRW[:]Master Military Resume Writer
+        Management Services - Professional Certification
+        NFJP Grantee Workforce Professional - Tier 1
+        National Workforce Professional - Tier 1
+        National Workforce Professional - Tier 2
+        National Workforce Professional - Tier 3
+        PHR[:]Professional in Human Resources
+        PRC[:]Physician Recruiting Consultants
+        Payroll Certification
+        QuickBooks Certification
+        RPA[:]Retirement Plans Associate
+        SPHR[:]Senior Professional in Human Resources
+        Tax Certification
+        WLCP[:]Work-Life Certified Professional
+    HR Concepts
+        Adult Learning Process
+        Change Management
+        Diversity Concepts
+        Job Analysis
+        Leadership Concepts
+        Motivation Concepts
+        Organization Behavior Concepts
+        Project Management Concepts
+        Qualitative and Quantitative Methods for Analysis
+        Types of Organizational Structures
+    HR Information Systems
+        Functional Skills
+        HR Modules, Sub-system
+        HR Software Package
+        HR Systems
+        HR Systems Related Activities
+    HR Operations / Administration
+        HR Operations / Administration Activities
+    Industrial Relations / Labor Welfare
+        Employment Laws Relating to
+        Functional Skills
+        Industrial Relations
+        Managing Industrial Disputes
+    Manpower Planning, Deployment, Analytics
+        Functional Skills
+        Global Mobility
+    Organization Change and Development
+        Functional Skills
+        Organization Design Concepts
+        Organization Development
+        Organization Development[:]OD
+    Recruitment
+        Recruitment Activities
+        Recruitment Sources
+        Recruitment Target Segments
+    Recruitment[:]Talent Aquisition
+    Training and Development
+        Activities in Training & Development
+        Functional Skills
+        LMS
+        Training Methodology
+    Training and Development[:]Learning and Development:T&D:L&D
+Healthcare, Medicine
+    Allied Health
+        Allied Health Activities
+    Alternate Medicine
+        Specialization
+    ERROR-SKILL-34134
+        Area In Paramedical Care
+        Functional Skills
+    ERROR-SKILL-3924
+        Functional Skills
+        Specialization
+    ERROR-SKILL-5276
+        Allied Health Activities
+        Functional Skills
+    ERROR-SKILL-5277
+        Functional Skills
+        Specialization
+    ERROR-SKILL-5279
+        Clinical Information System
+        Functional Skills
+        Healthcare IT Knowledge
+    ERROR-SKILL-5280
+        Functional Skills
+        Medical Administrative Services Activities
+    ERROR-SKILL-5281
+        Focus Area in Medical Coding
+        Functional Skills
+        Medical Coding Software
+        Medical Coding Standards
+    ERROR-SKILL-5283
+        Functional Skills
+        Medical Information Processing Activities
+        Medical Information Systems
+    ERROR-SKILL-5284
+        Functional Skills
+        Specialization
+    ERROR-SKILL-5285
+        Focus Area in Public Health
+        Functional Skills
+    ERROR-SKILL-5286
+        Functional Skills
+        Type of Therapy
+    Healthcare IT
+        Clinical Information System
+        Healthcare IT Knowledge
+    Medical / Health Technology
+        Biomaterial Implementation
+        Clinical / Laboratory Diagnostics
+        Functional Skills
+        Medical Imaging
+        Medical Technology
+        Type of Medical Imaging
+    Medical Administrative Services
+        Medical Administrative Services Activities
+    Medical Coding / Billing
+        Focus Area in Medical Coding
+        Medical Coding Software
+        Medical Coding Standards
+    Medical Information Processing
+        Medical Information Processing Activities
+        Medical Information Systems
+    Medical Information Processing[:]Health Information
+    Medical Practice (Allopathy)
+        Specialization
+    Nursing, Paramedical Care
+        Paramedical Care
+    Public Health
+        Focus Area in Public Health
+    Therapy
+        Type of Therapy
+    Veterinary Medicine
+        Specialization
+Information Technology
+    Applied Computing
+        Focus Area / Activities
+        Tools, Techologies
+        Understanding of
+    Business Analysis
+        Activities
+        Domain
+        Tools & Technologies
+    Business Applications
+        Banking Software
+        Business Process Management / Workflow Management
+        CRM / Marketing Automation
+        E-Commerce Applications
+        HR Software Package
+        LIMS
+        LMS
+        Microsoft Office Applications
+    Client Server Application Development
+        Activities
+        Mainframe
+        Principles and Concepts
+        Programming Languages
+        Programming Languages[:]Programming
+    DWH/BI/Data Science
+        Activities
+        Tools & Technologies
+        Understanding of
+    Database Development / Administration
+        Concepts
+        Database Administration
+        Database Administration[:]DBA
+        Database Development
+        Databases
+        Other Tools & Technologies
+    ERP
+        Microsoft Dynamics
+        Oracle Business Applications
+        SAP
+        Salesforce
+    ERP and Business Applications
+        Microsoft Dynamics
+        Oracle Business Applications
+        SAP
+        Salesforce
+    Game / Multimedia Development
+        Activities
+        Experience in Game / Multimedia Development
+        Game Engine
+        Graphics Processing Units
+        Graphics/Game Libraries/APIs
+        Principles and Concepts
+        Programming Languages
+        Programming Languages[:]Programming
+    IT Management
+        IT Change Management
+        IT Infrastructure Management
+        IT Service
+        Software Configuration Management (SCM)
+        Software Configuration Management[:]SCM
+        Software Packaging
+        Tools & Technology
+        Understanding of
+    IT Support
+        IT Service Management  Tools
+        IT Service Management  Tools[:]ITSM Tools
+        IT Service Support Management Tools
+        Technical Support Activities
+    IoT
+        Database for IoT
+        IoT Concepts
+        IoT Development Tools
+        IoT Hardware Tools
+        IoT Middleware Tools
+        IoT Operating System
+        IoT Platforms
+    Mobile Application Development
+        Activities
+        Android Environment
+        Concepts
+        Programming Languages
+        Programming Languages[:]Programming
+        Tools & Technologies
+        Windows Environment
+        Windows Environment[:]Windows Mobile App Development
+        iOS Environment
+    Networking
+        Concepts
+        Network Administration
+        Network Administration[:]Network Engineer
+        Network Engineering
+        Network Security
+        Network Support
+        Tools & Technologies
+    Programming
+        Activities
+        Concepts
+        Functional Skills
+        Programming Languages
+        Programming Languages[:]Programming
+        Programming and Related Activities
+        Tools & Technologies
+    Security
+        Focus Area / Activities
+        Security Technologies, Techniques
+        Security Threats, Vulnerabilities
+        Security Tools
+        Standards and Regualtions Related to Security
+    Software Development , Others
+        Activities
+        Focus Area
+        Principles and Concepts
+        Programming Languages
+        Tools & Technologies
+    Software Engineering / Delivery
+        Activities in Project Management / Delivery Management
+        Concepts
+        Scrum Master Activities
+        Tools & Technologies
+    Systems Administration / Engineering
+        Certifications
+        Cloud, Devops
+        Concepts
+        Operating System / Server
+        Server Hardware Software
+        Servers
+        Storage, Backup
+        System Architect Activities
+        Systems Administration
+        Systems Administration Experience
+        Systems Engineering Activities
+        Tools & Technologies
+        Virtualization
+    Systems, Embedded Software Development
+        Activities
+        Focus Area
+        Principles and Concepts
+        Programming Languages[:]Programming
+        Tools & Technologies
+    Testing
+        Activities in Testing
+        Testing of / for
+        Tools & Technologies
+        Type of Testing Performed
+    UI/UX
+        Activities
+        Concepts
+        Functional Skills
+        Tools & Technologies
+    Web Application Development
+        Activities
+        Application Platform / Portal / Content Management System (CMS)
+        Application Platform / Portal / Content Management System[:]CMS
+        J2EE
+        MVC Framework
+        Microsoft Technologies
+        Programming Languages
+        Programming Languages[:]Programming
+        Tools & Technologies
+        Understanding of
+Legal
+    Area of Law
+        Business Related Laws
+        Civil Law
+        Commercial Law
+        Criminal Law
+        Cyber Laws
+        Employment Law
+        Family Law
+        Financial Law
+        Intellectual Property Law
+        International Law
+        Public Law
+        Transportation Law
+    Areas of Law
+    Country
+        Afghanistan
+        Aland Islands
+        Albania
+        Algeria
+        American Samoa
+        Andorra
+        Angola
+        Antarctica
+        Antigua And Barbuda
+        Argentina
+        Armenia
+        Aruba
+        Australia
+        Austria
+        Azerbaijan
+        Bahamas
+        Bahrain
+        Bangladesh
+        Barbados
+        Belarus
+        Belgium
+        Belize
+        Benin
+        Bermuda
+        Bhutan
+        Bolivia
+        Bonaire, Saint Eustatius And Saba
+        Bosnia And Herzegovina
+        Botswana
+        Bouvet Island
+        Brazil
+        British Indian Ocean Territory
+        Brunei
+        Bulgaria
+        Burkina Faso
+        Burundi
+        Cambodia
+        Cameroon
+        Canada
+        Cape Verde
+        Central African Republic
+        Chad
+        Chile
+        China
+        Colombia
+        Comoros
+        Costa Rica
+        Croatia
+        Cuba
+        Cyprus
+        Czech Republic
+        Democratic Republic Of The Congo
+        Denmark
+        Djibouti
+        Dominica
+        Dominican Republic
+        East Timor
+        Ecuador
+        Egypt
+        El Salvador
+        Equatorial Guinea
+        Eritrea
+        Estonia
+        Ethiopia
+        Faroe Islands
+        Fiji
+        Finland
+        France
+        French Guiana
+        French Polynesia
+        French Southern Territories
+        Gabon
+        Gambia
+        Georgia
+        Germany
+        Ghana
+        Greece
+        Greenland
+        Grenada
+        Guadeloupe
+        Guam
+        Guatemala
+        Guernsey
+        Guinea
+        Guinea-Bissau
+        Guyana
+        Haiti
+        Honduras
+        Hong Kong
+        Hungary
+        Iceland
+        India
+        Indonesia
+        Iran
+        Iraq
+        Ireland
+        Isle Of Man
+        Israel
+        Italy
+        Ivory Coast
+        Jamaica
+        Japan
+        Jersey
+        Jordan
+        Kazakhstan
+        Kenya
+        Kiribati
+        Kosovo
+        Kuwait
+        Kyrgyzstan
+        Laos
+        Latvia
+        Lebanon
+        Lesotho
+        Liberia
+        Libya
+        Liechtenstein
+        Lithuania
+        Luxembourg
+        Macao
+        Macedonia
+        Madagascar
+        Malawi
+        Malaysia
+        Maldives
+        Mali
+        Marshall Islands
+        Martinique
+        Mauritania
+        Mauritius
+        Mayotte
+        Mexico
+        Micronesia
+        Moldova
+        Monaco
+        Mongolia
+        Montenegro
+        Montserrat
+        Morocco
+        Mozambique
+        Myanmar
+        Namibia
+        Nauru
+        Nepal
+        Netherlands
+        New Caledonia
+        New Zealand
+        Nicaragua
+        Niger
+        Nigeria
+        North Korea
+        Northern Mariana Islands
+        Norway
+        Oman
+        Pakistan
+        Palau
+        Palestinian Territory
+        Panama
+        Papua New Guinea
+        Paraguay
+        Peru
+        Philippines
+        Poland
+        Portugal
+        Puerto Rico
+        Qatar
+        Republic Of The Congo
+        Reunion
+        Romania
+        Russia
+        Rwanda
+        Saint Helena
+        Saint Kitts And Nevis
+        Saint Lucia
+        Saint Pierre And Miquelon
+        Saint Vincent And The Grenadines
+        Samoa
+        San Marino
+        Sao Tome And Principe
+        Saudi Arabia
+        Senegal
+        Serbia
+        Seychelles
+        Sierra Leone
+        Singapore
+        Slovakia
+        Slovenia
+        Solomon Islands
+        Somalia
+        South Africa
+        South Korea
+        South Sudan
+        Spain
+        Sri Lanka
+        Sudan
+        Suriname
+        Svalbard And Jan Mayen
+        Swaziland
+        Sweden
+        Switzerland
+        Syria
+        Taiwan
+        Tajikistan
+        Tanzania
+        Thailand
+        Togo
+        Tokelau
+        Tonga
+        Trinidad And Tobago
+        Tunisia
+        Turkey
+        Turkmenistan
+        Tuvalu
+        U.S. Virgin Islands
+        Uganda
+        Ukraine
+        United Arab Emirates
+        United Kingdom
+        United States
+        United States Minor Outlying Islands
+        Uruguay
+        Uzbekistan
+        Vanuatu
+        Venezuela
+        Vietnam
+        Wallis And Futuna
+        Western Sahara
+        Yemen
+        Zambia
+        Zimbabwe
+    Country, Laws of
+    Functional Skills
+        Analytical Thinking
+        Being Current on Latest Functional Developments
+        Customer Service Orientation
+        Eye for detail
+        Guiding People
+        Problem Solving
+        Researching for Information
+        Using Information Technology / Software Tools
+    Legal Function Specialization
+        Corporate Legal Activities
+        Lawyers
+        Paralegal Activities
+        Paralegal Drafting of
+Life Sciences
+    Aquatic Biology
+        Activities in Aquatic Biology
+    BioInformatics
+    Biochemistry
+        Biochemical and Biophysical Methods
+        Biomolecules
+        Carbohydrates
+        Cell Development
+        Chromatography
+        Endocrinology
+        Enzymes
+        Immunology
+        Lipids
+        Metabolism
+    Bioinformatics
+        Protein Analysis
+        Sequence Alignment
+        Sequence Analysis
+        Using Biological Databases
+    Botany
+        Identifying Fauna
+        Identifying Flora
+    Cell Biology
+        Cell separation techniques
+        Microscopy Techniques
+    Environmental Microbiology
+        Aquatic Microbiology
+        Biofouling and corrosion
+        Bioremediation
+        Degradation of Xenobiotics
+        Habitat of Microorganisms
+        Microbiology of Air
+        Population interactions
+        Processing of solid wastes
+        Sewage Microbiology
+        Space Microbiology
+    Functional Skills
+        Analytical Thinking
+        Being Current on Latest Functional Developments
+        Problem Solving
+        Researching for Information
+        Scientific Temperament
+        Using Information Technology / Software Tools
+    Genetic Engineering
+        Animal Cell Culture
+        Cell and Tissue Culture
+        Changes in Chromosome Structure
+        Cloning Techniques
+        Cytology and Cytogenetic Techniques
+        DNA Sequencing
+        DNA and RNA Replication
+        ERROR-SKILL-11509
+        ERROR-SKILL-11510
+        ERROR-SKILL-11511
+        ERROR-SKILL-11512
+        ERROR-SKILL-11513
+        ERROR-SKILL-11514
+        ERROR-SKILL-11515
+        ERROR-SKILL-6030
+        Gene Cloning
+        Gene Regulation
+        Gene Therapy
+        Linkage and Recombination Mapping
+        Molecular Tools for Gene Cloning
+        Nucleic Acid Isolation
+        Post Transcription Modification
+        Stem Cell
+        Transcription
+        Vectors for Gene Cloning
+    Human Genetics
+        Cancer Genetics
+        Diagnostics of Genetic Diseases
+        Genetic Mapping
+        Genome Organization
+        Medical Genetics
+    Immunology
+        Antibodies
+        Antigens
+        Cells, Organs of the Immune system
+        Immune Response to Diseases
+        Immunopathology
+        Immunotechniques
+        Responses
+        Types of Immunity
+    Medical Microbiology
+        Bacterial Diseases
+        Diagnostic Methods
+        Fungal Diseases
+        Infection
+        Microbial Toxins
+        Parasitic Diseases
+        Pathogenesis
+        Viral Diseases
+    Microbiology
+        Bacteriology
+        General Microbiology
+        Microbial Metabolism
+        Microbial Physiology
+        Mycology
+        Nano Microbiology
+        Nematology
+        Parasitology
+        Phycology
+        Protozoology
+        Virology
+    Molecular Biology
+        Animal Cell Culture
+        DNA
+        ERROR-SKILL-13104
+        Plant Cell Culture
+        Polymerase Chain Reaction
+        Proteomic Tools
+        Proteomics
+        RNA
+    Pharmacology
+        Chemotherapeutic Agents
+        Drug Discovery
+        Drugs Acting on Blood
+        Drugs Affecting Autacoids, Inflammation and Gout
+        Drugs Affecting Autonomic Nervous System (ANS)
+        Drugs Affecting Cardiovascular System (CVS)
+        Drugs Affecting Central Nervous System
+        Drugs Affecting Endocrine System
+        Drugs Affecting Gastro-intestinal System
+        Drugs Affecting Kidney Function
+        Drugs Affecting Peripheral Nervous System (PNS)
+        Drugs Affecting Respiratory System
+        ERROR-SKILL-13870
+        ERROR-SKILL-13871
+        ERROR-SKILL-13872
+        ERROR-SKILL-13873
+        ERROR-SKILL-13874
+        Experimental Pharmacology
+        General Pharmacology
+        Immunopharmacology
+        Other Drugs, Treatments
+        Pharmacokinetics and Drug Metabolism
+    Pharmacovigilance
+        ADR Reporting
+        Adverse Drug Reactions
+        Adverse Drug Reactions[:]ADR
+        Drug Informatics
+        Establishing Pharmacovigilance Program
+        ICH Guidelines for Pharmacovigilance
+        Pharmacovigilance Compliance and Inspections
+        Pharmacovigilance Methods
+        Signal Detection, Risk Assessment
+    Regulatory Affairs
+        China State FDA SFDA
+        European Medicines Authority - EMEA
+        India CDSCO
+        International Conference on Harmonization
+        Ministry for Health, Labor and Welfare - MHLW - Japan
+        US FDA
+    Serology
+        In Vitro Serological Tests
+        In Vivo Serological Reactions
+    Toxicology
+        Carcinogenicity
+        Clinical Pharmacology
+        Genotoxicity
+        Molecular Toxicology
+        Reproductive Toxicology
+        Target Organ Toxicology
+        Toxicity
+Life Sciences[:]Pharmceuticals; Biotechnology; Medical Research
+Manufacturing, Production, Maintenance
+    ERROR-SKILL-32895
+        Functional Skills
+        PPC - Production Planning & Control
+        Quality Improvement Tools / Methodologies
+        Statistical Analysis / Data Analytics[:]Statistical Techniques
+    ERROR-SKILL-34150
+        Cement
+        Chemicals
+        Electronics, Semiconductors
+        Food Processing
+        Functional Skills
+        Machining, Metal Processing
+        Oil & Gas
+        Paints
+        Plastics
+        Refinery
+        Textile
+    ERROR-SKILL-4947
+        Functional Skills
+        Industrial Engineering Knowledge
+        Manufacturing Execution Systems[:]MES
+        Manufacturing Technologies
+        Quality Improvement Tools / Methodologies
+        Statistical Analysis / Data Analytics[:]Statistical Techniques
+        Statistical Analysis Tool
+    General Maintenance
+        Activities in Maintenance Management
+        Functional Skills
+        Maintenance of
+        Quality Improvement Tools / Methodologies
+        Reliability Concepts
+    General Production Planning and Control
+        PPC - Production Planning & Control
+        Quality Improvement Tools / Methodologies
+        Statistical Analysis / Data Analytics
+    Industrial Engineering
+        Industrial Engineering Knowledge
+        Manufacturing Execution Systems
+        Manufacturing Technologies
+        Quality Improvement Tools / Methodologies
+        Statistical Analysis / Data Analytics
+        Statistical Analysis Tool
+    Operations (in Specific Industries)
+        Cement
+        Chemicals
+        Electronics, Semiconductors
+        Food Processing
+        Machining, Metal Processing
+        Paints
+        Refinery
+        Textile
+    Operations in Specific Industries
+    Quality, Process Improvement
+        Activities in Quality Management
+        Functional Skills
+        QA Standards
+        Quality Improvement Tools / Methodologies
+Media, Entertainment
+    Cinema, TV Serials
+        Aerial Shooting[:]Aerial Specialist
+        Anchoring / Presenting[:]Anchor
+        Animal Training[:]Animal Trainer
+        Animation[:]Animator
+        Art Direction[:]Art Director
+        Assistant Direction[:]Assistant Director
+        Audio Recording[:]Audio Recordist
+        Audio Video Operation[:]Audio Video Technician
+        Autocue Operation[:]Autocue Operator
+        Automated Dialogue Replacement[:]ADR Recordist
+        Boom Operation[:]Boom Operator
+        Broadcast Engineering[:]Broadcast Engineer
+        Cable Pulling[:]Cable Puller
+        Camera Operation[:]Camera Operator
+        Casting
+        Celebrity Booking[:]Celebrity Booker
+        Cinematographer[:]Director or Photogrphy:Cinematographer
+        Coloring
+        Composing[:]Composer
+        Compositing[:]Compositor
+        Computer Effects
+        Concept Artist
+        Costume Designing[:]Costume Designer
+        Costumer
+        Creature Designer
+        Dialect Coach
+        Digital Imaging
+        Directing[:]Director
+        Distribution[:]Distributor
+        Dolly Grip
+        Dubbing Mixer
+        Editing[:]Editor
+        Electrician
+        Executive Producer
+        Field Coordination[:]Field Coordinator:Field Director
+        Fixer
+        Gaffer
+        Graphics Operator
+        Grip
+        Hair Styling[:]Hair Stylist
+        Jimmy Jib Operation[:]Jimmy Job Operator
+        Lighting Design
+        Line Production[:]Line Producer
+        Loader
+        Location Management[:]Location Manager
+        Location Scout
+        Makeup Artist
+        Marine Specialist
+        Master Control Operation[:]Master Control Operator
+        Matte Painter
+        Mechanical Effects
+        Motion Graphics
+        Music Arranger
+        Music Editing[:]Music Editor
+        News Direction[:]News Director
+        News Editing[:]News Editor
+        News Production[:]News Producer
+        Post Production[:]Post Producer
+        Production Coordination[:]Production Coordinator
+        Production Design[:]Production Designer
+        Production Manager
+        Production[:]Producer
+        Prop Making[:]Prop Maker
+        Re-recording Mixing[:]Re-recording Mixer
+        Reporter
+        Researcher
+        Rotoscope Artist
+        Runner
+        Satellite Truck Operation[:]Satellite Truck Operator
+        Set Construction
+        Set Decorating[:]Set Decorator
+        Set Dressing[:]Swing
+        Set Painting
+        Sound Designing[:]Sound Designer
+        Sound Editing
+        Sound Engineer
+        Sound Mixing
+        Special Effects
+        Stage Management
+        Stedicam Operator
+        Stereography[:]Stereographer
+        Still Photography[:]Still Photographer
+        Story Assistant
+        Story Editing[:]Story Editor
+        Storyboard Artist
+        Studio Videographer
+        Stunt Coordination[:]Stunt Coordinator
+        Talent Booker
+        Titles Designer
+        Unit Management[:]Unit Management
+        VFX
+        Video Editing
+        Video Playback
+        Visual Effects
+        Voiceover
+        Wardrobe Styling
+        Writing
+    ERROR-SKILL-22222
+        Prepress
+        Printing Methods
+    ERROR-SKILL-33266
+        Journalistic Writing
+        Specialized Areas of Focus
+    ERROR-SKILL-3688
+        Archiving and Retrieval
+        Broad casting
+        Hosting Live Programs
+        News Editing[:]News Editor
+        Program Scheduling
+        Radio Program Production
+        Radio presentation
+        Reporting
+        Researching
+        Traffic management
+    Journalism
+        Journalistic Writing
+        Specialized Areas of Focus
+    Publishing
+        Prepress
+        Printing Methods
+    Radio
+    TV
+        Archiving and Retrieval
+        Art Direction[:]Art Director
+        Camera Operation[:]Camera Operator
+        Hair Stylist
+        Hosting Live Shows
+        Hosting Reality Programs
+        Lighting
+        Make Up
+        News Presentation
+        Production[:]Producer
+        Program Direction
+        Program Production
+        Program Scheduling
+        Researching
+        Sound Recording
+        Video Mixing
+    Theatre and Event Management
+        Event Coordination
+        Event Decoration
+        Lighting
+        Make Up
+        Props
+        Pyrotechnics
+        Stage Setting
+Sales & Marketing
+    Certifications
+        Account Based Marketing[:]ABM
+        Advanced Sales Manager Certification[:]ASMC
+        Bing Ads Accredited Professional
+        Certified Concrete Sales Professional[:]ccsp
+        Certified Digital Analytics
+        Certified Digital Marketer Customer Acquisition
+        Certified Digital Marketing
+        Certified Digital Marketing Associate
+        Certified Digital Marketing Consultant[:]CDMC
+        Certified Financial Marketing Professional
+        Certified Hospitality Sales Executive[:]CHSE
+        Certified Hospitality Sales Professional[:]CHSP
+        Certified Inside Sales Professional[:]CISP
+        Certified Interactive Marketing
+        Certified Internet Marketer[:]CIM
+        Certified Internet Marketing Practitioner[:]CIMP
+        Certified Marketing Executive[:]CME
+        Certified Marketing Management Professional[:]CMMP
+        Certified Marketing Specialist
+        Certified Marketing Strategy Expert
+        Certified Mobile Marketing Master[:]CMMM
+        Certified Online Marketing Expert
+        Certified Product Marketing Manager[:]CPMM
+        Certified Professional Sales Management[:]CPSM
+        Certified Sales Executive
+        Certified Sales Leadership Professional[:]CSLP
+        Certified Sales Operations Professional[:]CSOP
+        Certified Sales Professional[:]CSP
+        Certified Short Sales and Foreclosure Resource[:]SFR
+        Certified Trade Show Marketer[:]CTSM
+        Certified in Hospitality Sales Competencies[:]CHSC
+        Copyblogger Certified Content Marketer
+        DMA Certified Marketing Professional
+        DigitalMarketer Certified Content Marketing Specialist
+        Google AdWords Certification
+        Google AdWords Certification - Mobile Advertising
+        Google AdWords Certification - Shopping Advertising
+        Google AdWords Certification - Video Advertising
+        Google AdWords Certified Partner
+        Google AdWords Certified Professional
+        Google Analytics Certified Individual
+        Google Analytics Premium Fundamentals Certification
+        Google Certification for Analytics Platform Principles
+        Google Tag Manager Fundamentals
+        HootSuite Certified Advanced Social Media Strategy
+        HubSpot Inbound Marketing Certified Professional
+        IAB Digital Media Sales
+        NASP Certified Professional Sales Person
+        OMCA
+        OMCP
+        Online Marketing Certified Professional[:]OMCP
+        Pragmatic Marketing Certified[:]PMC
+        Professional Certified Marketer[:]PCM
+        SMEI Certified Professional Marketer[:]SCPM
+        WSI Advanced Internet Marketing
+    Enabling Technologies
+        Digital Analytics Sources
+        Digital Media Channels
+        E-Commerce Applications
+        Social Media Marketing Tools
+        Social Media Platforms
+    Focus Area / Activities
+        Marcomm, PR
+        Online Marketing
+        Product Management, Branding, Brand Promotion
+        Retailing / E-Commerce
+        Sales & Distribution
+        Sales Support
+    Functional Skills
+        Chasing Number Goals
+        Creative Thinking
+        Crunching Data
+        Customer Service Orientation
+        Judgement of People
+        Negotiation Skills
+        Productizing
+        Selling Skills
+        Spotting Business Opportunities
+        Understanding of Trends
+        Using Information Technology / Software Tools
+    Operational Experience
+        Customer Segment
+        Geography
+        Industry
+        Nature of Organization
+        Responsibility Level
+        Type of Product or Service Characteristic
+Sciences
+    Archaeology
+        Archaeology Activities
+    Astrology
+        Activities in Astrology
+    Astronomy
+        Focus Area in Astronomy
+    Atmospheric Science
+        Activities in Meteorlogy
+        Tools in Meteorlogy
+    Chemistry
+        Focus Area
+        Teaching of Chemistry
+    Economics
+        Focus Area
+        Teaching of Economics
+    Functional Skills
+        Analytical Thinking
+        Being Current on Latest Functional Developments
+        Problem Solving
+        Researching for Information
+        Scientific Temperament
+        Using Information Technology / Software Tools
+    Mathematics
+        Focus Area
+        Teaching of Mathematics
+    Physics
+        Focus Area
+        Teaching of Physics
+    Sociology
+        Activities
+        Area of Application
+        Specialization
+Skilled Labor / Skilled Worker
+    Driving
+        Cars
+        Commercial Vehicles
+        Cranes
+        Heavy Vehicles
+        Three Wheelers
+        Two Wheelers
+Skills Expected of Programmers
+    Functional Skills
+Social Service
+    Activities
+        Creating Campaigns
+        Full-time Volunteering
+        Fund Raising
+        Lead a team of Volunteers
+        Part-time Volunteering
+        Planning Campigns
+        Strategy and Leadership
+    Focus Area in Social Service
+        Agriculture
+        Animal Welfare
+        Business Regulation
+        Child Welfare
+        Consumer Protection
+        Culture
+        Democracy
+        Education
+        Employment
+        Energy
+        Environment Protection
+        Global Warming
+        Health Improvement
+        Human Rights
+        International Trade
+        Mentally Retarded
+        Physically Disabled
+        Pollution Reduction
+        Povery Alleviation
+        Renewable Energy
+        Rural Development
+        Rural Welfare
+        Spirituality
+        Tribal Welfare
+        Waste Reduction
+        Wildlife Protection
+        Women Welfare
+Sports
+    Adventure Sports
+        Commentator
+        Practising as a Hobby
+        Professional Sportsperson
+        Refree / Umpire
+        Sports Administration
+        Trainer / Coach
+    Aerobics
+        Commentator
+        Practising as a Hobby
+        Professional Sportsperson
+        Refree / Umpire
+        Sports Administration
+        Trainer / Coach
+    Aquatics
+        Commentator
+        Practising as a Hobby
+        Professional Sportsperson
+        Refree / Umpire
+        Sports Administration
+        Trainer / Coach
+    Archery
+        Commentator
+        Practising as a Hobby
+        Professional Sportsperson
+        Refree / Umpire
+        Sports Administration
+        Trainer / Coach
+    Athletics
+        Athletic Event
+        Commentator
+        Practising as a Hobby
+        Professional Sportsperson
+        Refree / Umpire
+        Sports Administration
+        Trainer / Coach
+    Badminton
+        Commentator
+        Practising as a Hobby
+        Professional Sportsperson
+        Refree / Umpire
+        Sports Administration
+        Trainer / Coach
+    Ball Badminton
+        Commentator
+        Practising as a Hobby
+        Professional Sportsperson
+        Refree / Umpire
+        Sports Administration
+        Trainer / Coach
+    Baseball
+        Commentator
+        Practising as a Hobby
+        Professional Sportsperson
+        Refree / Umpire
+        Sports Administration
+        Trainer / Coach
+    Basketball
+        Commentator
+        Practising as a Hobby
+        Professional Sportsperson
+        Refree / Umpire
+        Sports Administration
+        Trainer / Coach
+    Billiards / Snooker / Pool
+        Commentator
+        Practising as a Hobby
+        Professional Sportsperson
+        Refree / Umpire
+        Sports Administration
+        Trainer / Coach
+    Boating
+        Commentator
+        Practising as a Hobby
+        Professional Sportsperson
+        Refree / Umpire
+        Sports Administration
+        Trainer / Coach
+    Bowling
+        Commentator
+        Practising as a Hobby
+        Professional Sportsperson
+        Refree / Umpire
+        Sports Administration
+        Trainer / Coach
+    Boxing
+        Commentator
+        Practising as a Hobby
+        Professional Sportsperson
+        Refree / Umpire
+        Sports Administration
+        Trainer / Coach
+    Card games
+        Commentator
+        Practising as a Hobby
+        Professional Sportsperson
+        Refree / Umpire
+        Sports Administration
+        Trainer / Coach
+    Carrom
+        Commentator
+        Practising as a Hobby
+        Professional Sportsperson
+        Refree / Umpire
+        Sports Administration
+        Trainer / Coach
+    Chess
+        Commentator
+        Practising as a Hobby
+        Professional Sportsperson
+        Refree / Umpire
+        Sports Administration
+        Trainer / Coach
+    Cricket
+        Commentator
+        Practising as a Hobby
+        Professional Sportsperson
+        Refree / Umpire
+        Sports Administration
+        Trainer / Coach
+    Curling
+        Commentator
+        Practising as a Hobby
+        Professional Sportsperson
+        Refree / Umpire
+        Sports Administration
+        Trainer / Coach
+    Cycling
+        Commentator
+        Practising as a Hobby
+        Professional Sportsperson
+        Refree / Umpire
+        Sports Administration
+        Trainer / Coach
+    Equestrian
+        Commentator
+        Practising as a Hobby
+        Professional Sportsperson
+        Refree / Umpire
+        Sports Administration
+        Trainer / Coach
+    Fencing
+        Commentator
+        Practising as a Hobby
+        Professional Sportsperson
+        Refree / Umpire
+        Sports Administration
+        Trainer / Coach
+    Fistball
+        Commentator
+        Practising as a Hobby
+        Professional Sportsperson
+        Refree / Umpire
+        Sports Administration
+        Trainer / Coach
+    Football / Soccer
+        Commentator
+        Practising as a Hobby
+        Professional Sportsperson
+        Refree / Umpire
+        Sports Administration
+        Trainer / Coach
+    Golf
+        Commentator
+        Practising as a Hobby
+        Professional Sportsperson
+        Refree / Umpire
+        Sports Administration
+        Trainer / Coach
+    Gymnastics
+        Commentator
+        Practising as a Hobby
+        Professional Sportsperson
+        Refree / Umpire
+        Sports Administration
+        Trainer / Coach
+        Type of Gymnastics
+    Handball
+        Commentator
+        Practising as a Hobby
+        Professional Sportsperson
+        Refree / Umpire
+        Sports Administration
+        Trainer / Coach
+    Hockey
+        Commentator
+        Practising as a Hobby
+        Professional Sportsperson
+        Refree / Umpire
+        Sports Administration
+        Trainer / Coach
+    Horse riding
+        Commentator
+        Practising as a Hobby
+        Professional Sportsperson
+        Refree / Umpire
+        Sports Administration
+        Trainer / Coach
+    Ice Hockey
+        Commentator
+        Practising as a Hobby
+        Professional Sportsperson
+        Refree / Umpire
+        Sports Administration
+        Trainer / Coach
+    Ice Skating
+        Commentator
+        Practising as a Hobby
+        Professional Sportsperson
+        Refree / Umpire
+        Sports Administration
+        Trainer / Coach
+    Jogging / Running
+        Commentator
+        Practising as a Hobby
+        Professional Sportsperson
+        Refree / Umpire
+        Sports Administration
+        Trainer / Coach
+    Judo
+        Commentator
+        Practising as a Hobby
+        Professional Sportsperson
+        Refree / Umpire
+        Sports Administration
+        Trainer / Coach
+    Karate
+        Commentator
+        Practising as a Hobby
+        Professional Sportsperson
+        Refree / Umpire
+        Sports Administration
+        Trainer / Coach
+    Kayaking
+        Commentator
+        Practising as a Hobby
+        Professional Sportsperson
+        Refree / Umpire
+        Sports Administration
+        Trainer / Coach
+    Martial Arts
+        Commentator
+        Practising as a Hobby
+        Professional Sportsperson
+        Refree / Umpire
+        Sports Administration
+        Trainer / Coach
+    Motor Racing
+        Commentator
+        Practising as a Hobby
+        Professional Sportsperson
+        Refree / Umpire
+        Sports Administration
+        Trainer / Coach
+    Netball
+        Commentator
+        Practising as a Hobby
+        Professional Sportsperson
+        Refree / Umpire
+        Sports Administration
+        Trainer / Coach
+    Polo
+        Commentator
+        Practising as a Hobby
+        Professional Sportsperson
+        Refree / Umpire
+        Sports Administration
+        Trainer / Coach
+    Rugby
+        Commentator
+        Practising as a Hobby
+        Professional Sportsperson
+        Refree / Umpire
+        Sports Administration
+        Trainer / Coach
+    Sailing / Rowing
+        Commentator
+        Practising as a Hobby
+        Professional Sportsperson
+        Refree / Umpire
+        Sports Administration
+        Trainer / Coach
+    Scrabble
+        Commentator
+        Practising as a Hobby
+        Professional Sportsperson
+        Refree / Umpire
+        Sports Administration
+        Trainer / Coach
+    Scuba Diving
+        Commentator
+        Practising as a Hobby
+        Professional Sportsperson
+        Refree / Umpire
+        Sports Administration
+        Trainer / Coach
+    Shooting
+        Commentator
+        Practising as a Hobby
+        Professional Sportsperson
+        Refree / Umpire
+        Sports Administration
+        Trainer / Coach
+    Skating / Snowboarding
+        Commentator
+        Practising as a Hobby
+        Professional Sportsperson
+        Refree / Umpire
+        Sports Administration
+        Trainer / Coach
+    Skiing
+        Commentator
+        Practising as a Hobby
+        Professional Sportsperson
+        Refree / Umpire
+        Sports Administration
+        Trainer / Coach
+    Softball
+        Commentator
+        Practising as a Hobby
+        Professional Sportsperson
+        Refree / Umpire
+        Sports Administration
+        Trainer / Coach
+    Squash
+        Commentator
+        Practising as a Hobby
+        Professional Sportsperson
+        Refree / Umpire
+        Sports Administration
+        Trainer / Coach
+    Sumo
+        Commentator
+        Practising as a Hobby
+        Professional Sportsperson
+        Refree / Umpire
+        Sports Administration
+        Trainer / Coach
+    Swimming
+        Commentator
+        Practising as a Hobby
+        Professional Sportsperson
+        Refree / Umpire
+        Sports Administration
+        Trainer / Coach
+    Table Tennis
+        Commentator
+        Practising as a Hobby
+        Professional Sportsperson
+        Refree / Umpire
+        Sports Administration
+        Trainer / Coach
+    Taekwondo
+        Commentator
+        Practising as a Hobby
+        Professional Sportsperson
+        Refree / Umpire
+        Sports Administration
+        Trainer / Coach
+    Tennis
+        Commentator
+        Practising as a Hobby
+        Professional Sportsperson
+        Refree / Umpire
+        Sports Administration
+        Trainer / Coach
+    Trekking
+        Commentator
+        Practising as a Hobby
+        Professional Sportsperson
+        Refree / Umpire
+        Sports Administration
+        Trainer / Coach
+    Volleyball
+        Commentator
+        Practising as a Hobby
+        Professional Sportsperson
+        Refree / Umpire
+        Sports Administration
+        Trainer / Coach
+    Walking
+        Commentator
+        Practising as a Hobby
+        Professional Sportsperson
+        Refree / Umpire
+        Sports Administration
+        Trainer / Coach
+    Water Polo
+        Commentator
+        Practising as a Hobby
+        Professional Sportsperson
+        Refree / Umpire
+        Sports Administration
+        Trainer / Coach
+    Water Sports
+        Commentator
+        Practising as a Hobby
+        Professional Sportsperson
+        Refree / Umpire
+        Sports Administration
+        Trainer / Coach
+    Weight lifting
+        Commentator
+        Practising as a Hobby
+        Professional Sportsperson
+        Refree / Umpire
+        Sports Administration
+        Trainer / Coach
+    Winter sports
+        Commentator
+        Practising as a Hobby
+        Professional Sportsperson
+        Refree / Umpire
+        Sports Administration
+        Trainer / Coach
+    Wrestling
+        Commentator
+        Practising as a Hobby
+        Professional Sportsperson
+        Refree / Umpire
+        Sports Administration
+        Trainer / Coach
+    Yoga
+        Commentator
+        Practising as a Hobby
+        Professional Sportsperson
+        Refree / Umpire
+        Sports Administration
+        Trainer / Coach
+        Type of Yoga
+Supply Chain / Materials Management
+    ERROR-SKILL-3089
+        Analysis
+        Contracting
+        E Procurement
+        Functional Skills
+        Payment
+        Sourcing
+        Vendor Management
+    ERROR-SKILL-34744
+        Activities in Inventory Management
+        Functional Skills
+    Materials Management, in-company
+        Activities in Inventory Management
+    Materials Movement, Storage
+        Distribution / Network Operations (SCM)
+        Functional Skills
+        Import / Export
+        Transportation Management
+        Type of Freight Forwarding
+        Warehouse Management
+    Sourcing / Procurement
+        Analysis
+        Contracting
+        E Procurement
+        Payment
+        Sourcing
+        Vendor Management
+    Supply Chain Management Certifications
+        CFPIM[:]Certified Fellow in Production and Inventory Management
+        CPIM[:]Certified in Production and Inventory Management
+        CSCP
+    Supply Chain Management Software
+        Descartes
+        Epicor
+        GTNexus
+        HighJump - SCM
+        IBM
+        IBS
+        IFS
+        Infor
+        Inspur Genersoft
+        JDA
+        Kewill
+        Kinaxis
+        Logility
+        Manhattan Associates
+        Oracle
+        PTC
+        Quintiq
+        SAP
+        Totvs
+        Unit4
+    Understanding of
+        Concepts in Inventory Management
+        Logistics
+        Warehouse Management Concepts
+Supply Chain / Materials Management[:]Supply Chain Management:Materials Management

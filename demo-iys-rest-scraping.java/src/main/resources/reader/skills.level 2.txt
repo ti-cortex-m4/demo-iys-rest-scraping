@@ -1,0 +1,314 @@
+Accounts & Finance
+    Accounting softwares
+    Certifications
+    Concepts, Understanding of
+    Focus Area / Activities
+    Functional Skills
+    Operational Experience
+Agriculture, Animal Husbandry
+    Agriculture Research
+    Animal Husbandry
+    Farming
+    Farming[:]Cultivation
+    Fishing
+    Horticulture
+Arts, Crafts
+    Acting
+    Craftwork
+    Culinary Skills (Cooking)
+    Culinary Skills[:]Cooking
+    Dancing
+    Functional Skills
+    Graphic / 2D / 3D Design
+    Photography
+    Playing Musical Instrument / Composing
+    Singing
+    Vocal Range / Voice
+Banking, Financial Services, Insurance
+    Account & Finance certification
+    Banking
+    ERROR-SKILL-5269
+    ERROR-SKILL-5271
+    Financial Advisory
+    Insurance
+    Investment Banking
+    Knowledge of Accounts and Finance
+    Trading, Broking, Fund Management
+Behavioral Skills
+    Assertiveness
+    Decision Making
+    Emotional Balance
+    Influencing
+    Interpersonal Skills
+    Leading People
+    Personal Discipline
+    Risk Taking
+    Taking Responsibility
+    Time Management
+Business Management
+    Functional Skills
+    Geography
+    Industry
+    Management Expertise
+    Type of Engagement
+    Type of Organization
+    Understanding of
+Education
+    Administration In Education
+    Library Administration
+    Pedagogy and Teaching Methodologies
+    School Level
+    Special Education
+    Teaching
+Engineering & Technology
+    Aeronautics Engineering
+    Automotive Engineering
+    Biochemical Engineering
+    Biomedical Engineering
+    Civil Engineering
+    ERROR-SKILL-2570
+    ERROR-SKILL-4940
+    Electrical Engineering
+    Electronics Engineering
+    Fiber Technology
+    Food Technology
+    Instrumentation, Process Automation
+    Materials Sciences
+    Mechanical Engineering
+    Process Engineering
+    Robotics
+    Telecom, Communications
+Environment, Heath, Safety
+    Enviromental Safety
+    Fire Safety
+    Industrial Safety
+    Occupational Safety
+    Safety Activities
+    Safety Engineering
+    Transport Safety
+Food Business
+    Bar
+    Food Preparation
+    Food Service
+    Management
+    Scale of Food Business
+    Support
+    Support[:]Support Engineer:Application Support:Technical Support:Support Anlayst
+General Administration
+    Activities in Facilities Management
+    Activities of Secretary
+    Facilities Management
+    Functional Skills
+    Office Administration
+    Office Administration Activities
+    Other Admin Activities
+    Secretarial Activities
+HR
+    Compensation & Benefits
+    ERROR-SKILL-5290
+    ERROR-SKILL-5294
+    Employee Engagement
+    HR Certifications
+    HR Concepts
+    HR Information Systems
+    HR Operations / Administration
+    Industrial Relations / Labor Welfare
+    Manpower Planning, Deployment, Analytics
+    Organization Change and Development
+    Recruitment
+    Recruitment[:]Talent Aquisition
+    Training and Development
+    Training and Development[:]Learning and Development:T&D:L&D
+Healthcare, Medicine
+    Allied Health
+    Alternate Medicine
+    ERROR-SKILL-34134
+    ERROR-SKILL-3924
+    ERROR-SKILL-5276
+    ERROR-SKILL-5277
+    ERROR-SKILL-5279
+    ERROR-SKILL-5280
+    ERROR-SKILL-5281
+    ERROR-SKILL-5283
+    ERROR-SKILL-5284
+    ERROR-SKILL-5285
+    ERROR-SKILL-5286
+    Healthcare IT
+    Medical / Health Technology
+    Medical Administrative Services
+    Medical Coding / Billing
+    Medical Information Processing
+    Medical Information Processing[:]Health Information
+    Medical Practice (Allopathy)
+    Nursing, Paramedical Care
+    Public Health
+    Therapy
+    Veterinary Medicine
+Information Technology
+    Applied Computing
+    Business Analysis
+    Business Applications
+    Client Server Application Development
+    DWH/BI/Data Science
+    Database Development / Administration
+    ERP
+    ERP and Business Applications
+    Game / Multimedia Development
+    IT Management
+    IT Support
+    IoT
+    Mobile Application Development
+    Networking
+    Programming
+    Security
+    Software Development , Others
+    Software Engineering / Delivery
+    Systems Administration / Engineering
+    Systems, Embedded Software Development
+    Testing
+    UI/UX
+    Web Application Development
+Legal
+    Area of Law
+    Areas of Law
+    Country
+    Country, Laws of
+    Functional Skills
+    Legal Function Specialization
+Life Sciences
+    Aquatic Biology
+    BioInformatics
+    Biochemistry
+    Bioinformatics
+    Botany
+    Cell Biology
+    Environmental Microbiology
+    Functional Skills
+    Genetic Engineering
+    Human Genetics
+    Immunology
+    Medical Microbiology
+    Microbiology
+    Molecular Biology
+    Pharmacology
+    Pharmacovigilance
+    Regulatory Affairs
+    Serology
+    Toxicology
+Life Sciences[:]Pharmceuticals; Biotechnology; Medical Research
+Manufacturing, Production, Maintenance
+    ERROR-SKILL-32895
+    ERROR-SKILL-34150
+    ERROR-SKILL-4947
+    General Maintenance
+    General Production Planning and Control
+    Industrial Engineering
+    Operations (in Specific Industries)
+    Operations in Specific Industries
+    Quality, Process Improvement
+Media, Entertainment
+    Cinema, TV Serials
+    ERROR-SKILL-22222
+    ERROR-SKILL-33266
+    ERROR-SKILL-3688
+    Journalism
+    Publishing
+    Radio
+    TV
+    Theatre and Event Management
+Sales & Marketing
+    Certifications
+    Enabling Technologies
+    Focus Area / Activities
+    Functional Skills
+    Operational Experience
+Sciences
+    Archaeology
+    Astrology
+    Astronomy
+    Atmospheric Science
+    Chemistry
+    Economics
+    Functional Skills
+    Mathematics
+    Physics
+    Sociology
+Skilled Labor / Skilled Worker
+    Driving
+Skills Expected of Programmers
+    Functional Skills
+Social Service
+    Activities
+    Focus Area in Social Service
+Sports
+    Adventure Sports
+    Aerobics
+    Aquatics
+    Archery
+    Athletics
+    Badminton
+    Ball Badminton
+    Baseball
+    Basketball
+    Billiards / Snooker / Pool
+    Boating
+    Bowling
+    Boxing
+    Card games
+    Carrom
+    Chess
+    Cricket
+    Curling
+    Cycling
+    Equestrian
+    Fencing
+    Fistball
+    Football / Soccer
+    Golf
+    Gymnastics
+    Handball
+    Hockey
+    Horse riding
+    Ice Hockey
+    Ice Skating
+    Jogging / Running
+    Judo
+    Karate
+    Kayaking
+    Martial Arts
+    Motor Racing
+    Netball
+    Polo
+    Rugby
+    Sailing / Rowing
+    Scrabble
+    Scuba Diving
+    Shooting
+    Skating / Snowboarding
+    Skiing
+    Softball
+    Squash
+    Sumo
+    Swimming
+    Table Tennis
+    Taekwondo
+    Tennis
+    Trekking
+    Volleyball
+    Walking
+    Water Polo
+    Water Sports
+    Weight lifting
+    Winter sports
+    Wrestling
+    Yoga
+Supply Chain / Materials Management
+    ERROR-SKILL-3089
+    ERROR-SKILL-34744
+    Materials Management, in-company
+    Materials Movement, Storage
+    Sourcing / Procurement
+    Supply Chain Management Certifications
+    Supply Chain Management Software
+    Understanding of
+Supply Chain / Materials Management[:]Supply Chain Management:Materials Management
